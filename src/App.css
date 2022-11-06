@@ -36,3 +36,74 @@
     transform: rotate(360deg);
   }
 }
+
+.game {
+  color: aqua;
+  font-weight: bold;
+}
+.world {
+  color: orange;
+  font-weight: bold;
+}
+.me-auto{
+  align-items: center;
+}
+.carousel{
+  margin-top: 5%;
+  margin-bottom: 2%;
+  
+}
+.car{
+  display: flex;
+
+}
+
+.image {
+  width: 500px;
+  height: 600px;
+}
+.cc h3 {
+  color: #282c34;
+  font-weight: bold;
+
+}
+.cc p{
+  color: #282c34;
+  font-weight: normal;
+}
+
+.cards{
+  display: flex;
+  justify-content: space-around;
+}
+.caption{
+  display: flex;
+  justify-content: flex-end;
+}
+.img{
+  width: 280px;
+  height: 150px;
+  padding-left: 10%;
+  padding-top: 2%;
+  margin-bottom: 32%;
+}
+.cards:hover{
+  box-shadow: 20px 30px #282c34;
+}
+.form{
+  margin-top: 5%;
+  width: 50%;
+  margin-left: 30%;
+}
+.foot{
+  background:#1a2e55;
+  margin-top: 2%;
+}
+.foot img{
+  width:100px;
+  height: 100px;
+}
+.foot p{
+  color: white;
+  font-size: 16px;
+}
