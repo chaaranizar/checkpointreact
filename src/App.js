@@ -126,7 +126,7 @@ LA XBOX LA PLUS RAPIDE ET LA PLUS PUISSANTE JAMAIS CONÇUE
 
 La manette sans fil DualSense pour PS5 offre un retour haptique immersif2, de gâchettes adaptatives dynamiques et un micro intégré, le tout intégré dans un design emblématique.
         </Card.Text>
-        <Button variant="primary">Go somewhere</Button>
+        <Button variant="primary">Add To Cart</Button>
       </Card.Body>
     </Card>
     </div>
