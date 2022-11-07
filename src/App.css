@@ -63,14 +63,30 @@
   height: 600px;
 }
 .cc h3 {
-  color: #282c34;
+  color: white;
   font-weight: bold;
 
 }
 .cc p{
-  color: #282c34;
+  color:white;
   font-weight: normal;
 }
+.item1{
+  background-image: url(../public/Playstation-5-console-image.png);
+  background-position: center;
+  background-size: cover;
+}
+.item2{
+  background-image: url(../public/EGS_EASPORTSFIFA23UltimateEdition_EACanada_Editions_S2_1200x1600-818a94c682b55e8c54f4e3d837782ff9.jpg);
+  background-position: center;
+  background-size: contain;
+}
+.item3{
+  background-image: url(../public/maxresdefault.jpg);
+  background-position: center;
+  background-size: cover;
+  
+  }
 
 .cards{
   display: flex;

@@ -53,7 +53,7 @@ function App() {
     </Navbar>
     {/*carousel part*/}
     <Carousel fade>
-      <Carousel.Item className='car'>
+      <Carousel.Item className='car item1'>
       <div className='image'> <img
           className="d-block w-100"
           src="https://media03.gameworld.tn/3536-large_default/pack-playstation-5-et-ses-accessoires.jpg"
@@ -64,7 +64,7 @@ function App() {
           <p>PS5 + CASQUE PULSE 3D + CAMERA HD + CHARGEUR + TÉLÉCOMMANDE </p>
         </Carousel.Caption></div>
       </Carousel.Item>
-      <Carousel.Item className='car'>
+      <Carousel.Item className='car item2'>
       <div className='image'><img
           className="d-block w-100"
           src="https://media02.gameworld.tn/5820-medium_default/fifa-23.jpg"
@@ -76,7 +76,7 @@ function App() {
           <p>EA SPORTS™ FIFA 23 apporte le jeu mondial sur le terrain, avec des tournois masculins et féminins de la Coupe du Monde de la FIFA™, l'ajout d'équipes de clubs féminins et de nouvelles façons de jouer à vos modes préférés .</p>
         </Carousel.Caption>
       </Carousel.Item>
-      <Carousel.Item className='car'>
+      <Carousel.Item className='car item3'>
       <div className='image'><img
           className="d-block w-100"
           src="https://media01.gameworld.tn/3556-large_default/xbox-serie-x.jpg"
