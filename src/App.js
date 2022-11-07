@@ -72,8 +72,8 @@ function App() {
         /></div>
 
         <Carousel.Caption className='cc'>
-          <h3>FIFA 23 - Version Française</h3>
-          <p>EA SPORTS™ FIFA 23 apporte le jeu mondial sur le terrain, avec des tournois masculins et féminins de la Coupe du Monde de la FIFA™, l'ajout d'équipes de clubs féminins et de nouvelles façons de jouer à vos modes préférés .</p>
+          <h3 className='title'>FIFA 23 - Version Française</h3>
+          <p className='para'>EA SPORTS™ FIFA 23 apporte le jeu mondial sur le terrain, avec des tournois masculins et féminins de la Coupe du Monde de la FIFA™, l'ajout d'équipes de clubs féminins et de nouvelles façons de jouer à vos modes préférés .</p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item className='car item3'>

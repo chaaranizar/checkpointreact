@@ -65,10 +65,17 @@
 .cc h3 {
   color: white;
   font-weight: bold;
-
+}
+.cc .title{
+  color: black;
+  font-weight: bold;
 }
 .cc p{
   color:white;
+  font-weight: normal;
+}
+.cc .para{
+  color:black;
   font-weight: normal;
 }
 .item1{
